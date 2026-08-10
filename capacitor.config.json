@@ -1,0 +1,12 @@
+{
+  "appId": "com.17sho.passkey",
+  "appName": "Passkey",
+  "webDir": "www",
+  "server": {
+    "url": "https://passkey.23cm.me",
+    "cleartext": false
+  },
+  "ios": {
+    "scheme": "App"
+  }
+}
